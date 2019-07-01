@@ -1,6 +1,6 @@
 # FSnet
 FSnet: A Faster &amp; Smaller Efficient-based  Salient Object Detection
-官方的[EfficientNet]（https://arxiv.org/abs/1905.11946)  paper
+官方的EfficientNet（https://arxiv.org/abs/1905.11946)  paper
 # 潘明远（代码）
 # 王宁（PPT）
 <img align="right" src="https://github.com/DeepBrainsMe/FSnet/blob/master/pipline.JPG">
